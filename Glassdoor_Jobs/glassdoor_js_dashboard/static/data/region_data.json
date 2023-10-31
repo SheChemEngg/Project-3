@@ -1,0 +1,64 @@
+{
+    "West": {
+        "Region_Salary": 115.0,
+        "States": [
+            "WA",
+            "CA",
+            "CO",
+            "OR",
+            "UT",
+            "ID"
+        ]
+    },
+    "Midwest": {
+        "Region_Salary": 96.0,
+        "States": [
+            "IL",
+            "MI",
+            "OH",
+            "MO",
+            "IN",
+            "WI",
+            "NE",
+            "MN",
+            "IA",
+            "KS"
+        ]
+    },
+    "Northeast": {
+        "Region_Salary": 99.0,
+        "States": [
+            "MD",
+            "NY",
+            "MA",
+            "NJ",
+            "CT",
+            "DC",
+            "PA",
+            "DE",
+            "RI"
+        ]
+    },
+    "Southeast": {
+        "Region_Salary": 88.0,
+        "States": [
+            "FL",
+            "VA",
+            "KY",
+            "AL",
+            "GA",
+            "LA",
+            "NC",
+            "TN",
+            "SC"
+        ]
+    },
+    "Southwest": {
+        "Region_Salary": 87.0,
+        "States": [
+            "NM",
+            "TX",
+            "AZ"
+        ]
+    }
+}

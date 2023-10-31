@@ -1,0 +1,916 @@
+{
+    "AL": [
+        {
+            "Sector": "Aerospace & Defense",
+            "Number_of_Jobs": 5,
+            "Average_Avg_Salary": 62.2
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 48.0
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 39.5
+        },
+        {
+            "Sector": "Consumer Services",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 65.0
+        }
+    ],
+    "AZ": [
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 61.7
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 124.5
+        },
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 100.0
+        },
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 68.5
+        }
+    ],
+    "CA": [
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 69,
+            "Average_Avg_Salary": 137.8
+        },
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 22,
+            "Average_Avg_Salary": 118.5
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 13,
+            "Average_Avg_Salary": 105.8
+        },
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 10,
+            "Average_Avg_Salary": 100.4
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 7,
+            "Average_Avg_Salary": 148.0
+        },
+        {
+            "Sector": "Telecommunications",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 131.5
+        },
+        {
+            "Sector": "Aerospace & Defense",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 141.2
+        },
+        {
+            "Sector": "Retail",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 88.0
+        },
+        {
+            "Sector": "Arts, Entertainment & Recreation",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 48.5
+        },
+        {
+            "Sector": "Media",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 106.2
+        },
+        {
+            "Sector": "Education",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 133.7
+        },
+        {
+            "Sector": "Manufacturing",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 97.3
+        },
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 95.5
+        },
+        {
+            "Sector": "Non-Profit",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 47.5
+        },
+        {
+            "Sector": "Real Estate",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 103.5
+        },
+        {
+            "Sector": "Accounting & Legal",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 113.5
+        },
+        {
+            "Sector": "Consumer Services",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 139.5
+        }
+    ],
+    "CO": [
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 96.1
+        },
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 31.5
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 29.5
+        },
+        {
+            "Sector": "Aerospace & Defense",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 100.5
+        },
+        {
+            "Sector": "Travel & Tourism",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 105.0
+        },
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 133.5
+        }
+    ],
+    "CT": [
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 62.5
+        },
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 84.0
+        }
+    ],
+    "DC": [
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 5,
+            "Average_Avg_Salary": 119.2
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 116.2
+        },
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 50.0
+        },
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 101.0
+        }
+    ],
+    "DE": [
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 6,
+            "Average_Avg_Salary": 27.5
+        }
+    ],
+    "FL": [
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 8,
+            "Average_Avg_Salary": 77.1
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 6,
+            "Average_Avg_Salary": 89.5
+        },
+        {
+            "Sector": "Telecommunications",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 44.0
+        }
+    ],
+    "GA": [
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 80.0
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 79.5
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 85.0
+        }
+    ],
+    "IA": [
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 115.5
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 43.0
+        },
+        {
+            "Sector": "Manufacturing",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 77.5
+        }
+    ],
+    "ID": [
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 49.0
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 63.5
+        }
+    ],
+    "IL": [
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 8,
+            "Average_Avg_Salary": 83.8
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 7,
+            "Average_Avg_Salary": 118.4
+        },
+        {
+            "Sector": "Manufacturing",
+            "Number_of_Jobs": 6,
+            "Average_Avg_Salary": 62.0
+        },
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 6,
+            "Average_Avg_Salary": 201.6
+        },
+        {
+            "Sector": "Transportation & Logistics",
+            "Number_of_Jobs": 5,
+            "Average_Avg_Salary": 109.5
+        },
+        {
+            "Sector": "Real Estate",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 117.5
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 140.0
+        },
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 133.0
+        }
+    ],
+    "IN": [
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 118.5
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 81.8
+        },
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 51.5
+        },
+        {
+            "Sector": "Agriculture & Forestry",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 80.5
+        }
+    ],
+    "KS": [
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 87.0
+        }
+    ],
+    "KY": [
+        {
+            "Sector": "Manufacturing",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 103.5
+        },
+        {
+            "Sector": "Transportation & Logistics",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 84.0
+        }
+    ],
+    "LA": [
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 63.0
+        },
+        {
+            "Sector": "Government",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 20.0
+        }
+    ],
+    "MA": [
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 56,
+            "Average_Avg_Salary": 116.8
+        },
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 25,
+            "Average_Avg_Salary": 96.4
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 6,
+            "Average_Avg_Salary": 109.0
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 6,
+            "Average_Avg_Salary": 114.7
+        },
+        {
+            "Sector": "Construction, Repair & Maintenance",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 26.5
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 75.2
+        },
+        {
+            "Sector": "Government",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 69.5
+        },
+        {
+            "Sector": "Aerospace & Defense",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 110.0
+        },
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 98.5
+        }
+    ],
+    "MD": [
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 13,
+            "Average_Avg_Salary": 98.2
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 12,
+            "Average_Avg_Salary": 98.1
+        },
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 100.8
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 73.5
+        },
+        {
+            "Sector": "Aerospace & Defense",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 114.5
+        },
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 107.0
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 62.0
+        }
+    ],
+    "MI": [
+        {
+            "Sector": "Real Estate",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 96.0
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 87.5
+        },
+        {
+            "Sector": "Manufacturing",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 104.5
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 130.0
+        }
+    ],
+    "MN": [
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 85.5
+        }
+    ],
+    "MO": [
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 143.5
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 58.2
+        },
+        {
+            "Sector": "Oil, Gas, Energy & Utilities",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 61.0
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 70.5
+        },
+        {
+            "Sector": "Education",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 96.0
+        }
+    ],
+    "NC": [
+        {
+            "Sector": "Manufacturing",
+            "Number_of_Jobs": 10,
+            "Average_Avg_Salary": 96.0
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 5,
+            "Average_Avg_Salary": 98.3
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 88.3
+        },
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 117.0
+        }
+    ],
+    "NE": [
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 37.2
+        },
+        {
+            "Sector": "Non-Profit",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 52.5
+        }
+    ],
+    "NJ": [
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 5,
+            "Average_Avg_Salary": 69.7
+        },
+        {
+            "Sector": "Manufacturing",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 100.5
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 115.8
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 145.7
+        },
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 98.5
+        },
+        {
+            "Sector": "Media",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 146.0
+        }
+    ],
+    "NM": [
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 75.5
+        },
+        {
+            "Sector": "Aerospace & Defense",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 72.0
+        }
+    ],
+    "NY": [
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 14,
+            "Average_Avg_Salary": 90.9
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 13,
+            "Average_Avg_Salary": 114.2
+        },
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 11,
+            "Average_Avg_Salary": 80.9
+        },
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 8,
+            "Average_Avg_Salary": 119.5
+        },
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 7,
+            "Average_Avg_Salary": 125.6
+        },
+        {
+            "Sector": "Travel & Tourism",
+            "Number_of_Jobs": 7,
+            "Average_Avg_Salary": 64.4
+        },
+        {
+            "Sector": "Retail",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 101.0
+        },
+        {
+            "Sector": "Education",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 70.2
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 129.5
+        },
+        {
+            "Sector": "Consumer Services",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 97.5
+        },
+        {
+            "Sector": "Media",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 128.0
+        },
+        {
+            "Sector": "Manufacturing",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 73.0
+        }
+    ],
+    "OH": [
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 6,
+            "Average_Avg_Salary": 75.3
+        },
+        {
+            "Sector": "Mining & Metals",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 107.0
+        },
+        {
+            "Sector": "Government",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 93.5
+        },
+        {
+            "Sector": "Aerospace & Defense",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 86.5
+        },
+        {
+            "Sector": "Media",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 107.5
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 100.0
+        },
+        {
+            "Sector": "Transportation & Logistics",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 79.0
+        }
+    ],
+    "OR": [
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 99.5
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 96.5
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 73.0
+        }
+    ],
+    "PA": [
+        {
+            "Sector": "Education",
+            "Number_of_Jobs": 11,
+            "Average_Avg_Salary": 108.0
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 8,
+            "Average_Avg_Salary": 111.1
+        },
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 92.0
+        },
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 36.8
+        },
+        {
+            "Sector": "Retail",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 85.0
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 49.0
+        },
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 66.5
+        },
+        {
+            "Sector": "Mining & Metals",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 98.0
+        }
+    ],
+    "RI": [
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 100.0
+        }
+    ],
+    "SC": [
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 60.5
+        }
+    ],
+    "TN": [
+        {
+            "Sector": "Retail",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 98.0
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 97.7
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 13.5
+        },
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 109.0
+        },
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 106.5
+        },
+        {
+            "Sector": "Aerospace & Defense",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 96.0
+        }
+    ],
+    "TX": [
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 9,
+            "Average_Avg_Salary": 93.2
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 5,
+            "Average_Avg_Salary": 106.9
+        },
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 21.5
+        },
+        {
+            "Sector": "Education",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 99.5
+        },
+        {
+            "Sector": "Real Estate",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 95.0
+        },
+        {
+            "Sector": "Retail",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 139.0
+        },
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 96.0
+        },
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 85.0
+        }
+    ],
+    "UT": [
+        {
+            "Sector": "Non-Profit",
+            "Number_of_Jobs": 6,
+            "Average_Avg_Salary": 78.8
+        },
+        {
+            "Sector": "Biotech & Pharmaceuticals",
+            "Number_of_Jobs": 3,
+            "Average_Avg_Salary": 140.5
+        },
+        {
+            "Sector": "Manufacturing",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 47.0
+        }
+    ],
+    "VA": [
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 18,
+            "Average_Avg_Salary": 104.0
+        },
+        {
+            "Sector": "Aerospace & Defense",
+            "Number_of_Jobs": 9,
+            "Average_Avg_Salary": 100.7
+        },
+        {
+            "Sector": "Government",
+            "Number_of_Jobs": 6,
+            "Average_Avg_Salary": 86.3
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 5,
+            "Average_Avg_Salary": 83.9
+        },
+        {
+            "Sector": "Education",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 61.5
+        },
+        {
+            "Sector": "Health Care",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 81.0
+        }
+    ],
+    "WA": [
+        {
+            "Sector": "Oil, Gas, Energy & Utilities",
+            "Number_of_Jobs": 12,
+            "Average_Avg_Salary": 83.7
+        },
+        {
+            "Sector": "Information Technology",
+            "Number_of_Jobs": 6,
+            "Average_Avg_Salary": 131.5
+        },
+        {
+            "Sector": "Business Services",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 59.5
+        },
+        {
+            "Sector": "Non-Profit",
+            "Number_of_Jobs": 1,
+            "Average_Avg_Salary": 44.5
+        }
+    ],
+    "WI": [
+        {
+            "Sector": "Finance",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 90.0
+        },
+        {
+            "Sector": "Manufacturing",
+            "Number_of_Jobs": 4,
+            "Average_Avg_Salary": 54.0
+        },
+        {
+            "Sector": "Insurance",
+            "Number_of_Jobs": 2,
+            "Average_Avg_Salary": 78.5
+        }
+    ]
+}

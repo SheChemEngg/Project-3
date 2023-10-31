@@ -1,0 +1,262 @@
+[
+    {
+        "State_code": "AL",
+        "State": "Alabama",
+        "job_count": "8",
+        "avg_ann_sal": "58",
+        "job_types": "['Data Scientist', 'Research Scientist', 'Data Analyst', 'Data Engineer']"
+    },
+    {
+        "State_code": "AZ",
+        "State": "Arizona",
+        "job_count": "9",
+        "avg_ann_sal": "86",
+        "job_types": "['Data Analyst', 'Data Scientist', 'Data Engineer']"
+    },
+    {
+        "State_code": "CA",
+        "State": "California",
+        "job_count": "152",
+        "avg_ann_sal": "124",
+        "job_types": "['Data Scientist', 'Data Analyst', 'Research Scientist', 'Data Engineer', 'Machine Learning Engineer', 'Manager']"
+    },
+    {
+        "State_code": "CO",
+        "State": "Colorado",
+        "job_count": "11",
+        "avg_ann_sal": "78",
+        "job_types": "['Data Scientist', 'Data Analyst', 'Machine Learning Engineer', 'Research Scientist', 'Data Engineer']"
+    },
+    {
+        "State_code": "CT",
+        "State": "Connecticut",
+        "job_count": "5",
+        "avg_ann_sal": "72",
+        "job_types": "['Data Scientist', 'Research Scientist']"
+    },
+    {
+        "State_code": "DC",
+        "State": "Washington DC",
+        "job_count": "11",
+        "avg_ann_sal": "111",
+        "job_types": "['Data Scientist', 'Data Engineer', 'Data Analyst']"
+    },
+    {
+        "State_code": "DE",
+        "State": "Delaware",
+        "job_count": "6",
+        "avg_ann_sal": "28",
+        "job_types": "['Research Scientist']"
+    },
+    {
+        "State_code": "FL",
+        "State": "Florida",
+        "job_count": "16",
+        "avg_ann_sal": "78",
+        "job_types": "['Data Scientist', 'Data Engineer', 'Data Analyst']"
+    },
+    {
+        "State_code": "GA",
+        "State": "Georgia",
+        "job_count": "6",
+        "avg_ann_sal": "81",
+        "job_types": "['Data Scientist', 'Research Scientist']"
+    },
+    {
+        "State_code": "IA",
+        "State": "Iowa",
+        "job_count": "5",
+        "avg_ann_sal": "79",
+        "job_types": "['Data Engineer', 'Data Scientist']"
+    },
+    {
+        "State_code": "ID",
+        "State": "Idaho",
+        "job_count": "2",
+        "avg_ann_sal": "57",
+        "job_types": "['Data Analyst']"
+    },
+    {
+        "State_code": "IL",
+        "State": "Illinois",
+        "job_count": "40",
+        "avg_ann_sal": "117",
+        "job_types": "['Data Scientist', 'Data Analyst', 'Data Engineer', 'Research Scientist']"
+    },
+    {
+        "State_code": "IN",
+        "State": "Indiana",
+        "job_count": "10",
+        "avg_ann_sal": "91",
+        "job_types": "['Research Scientist', 'Data Scientist', 'Data Engineer']"
+    },
+    {
+        "State_code": "KS",
+        "State": "Kansas",
+        "job_count": "3",
+        "avg_ann_sal": "87",
+        "job_types": "['Machine Learning Engineer']"
+    },
+    {
+        "State_code": "KY",
+        "State": "Kentucky",
+        "job_count": "6",
+        "avg_ann_sal": "97",
+        "job_types": "['Data Scientist', 'Research Scientist']"
+    },
+    {
+        "State_code": "LA",
+        "State": "Louisiana",
+        "job_count": "4",
+        "avg_ann_sal": "53",
+        "job_types": "['Data Analyst', 'Data Engineer', 'Research Scientist']"
+    },
+    {
+        "State_code": "MA",
+        "State": "Massachusetts",
+        "job_count": "103",
+        "avg_ann_sal": "107",
+        "job_types": "['Data Scientist', 'Research Scientist', 'Data Analyst', 'Data Engineer', 'Director', 'Manager']"
+    },
+    {
+        "State_code": "MD",
+        "State": "Maryland",
+        "job_count": "35",
+        "avg_ann_sal": "98",
+        "job_types": "['Data Scientist', 'Research Scientist', 'Data Analyst', 'Data Engineer']"
+    },
+    {
+        "State_code": "MI",
+        "State": "Michigan",
+        "job_count": "6",
+        "avg_ann_sal": "101",
+        "job_types": "['Data Scientist', 'Manager']"
+    },
+    {
+        "State_code": "MN",
+        "State": "Minnesota",
+        "job_count": "2",
+        "avg_ann_sal": "86",
+        "job_types": "['Data Engineer', 'Data Analyst']"
+    },
+    {
+        "State_code": "MO",
+        "State": "Missouri",
+        "job_count": "9",
+        "avg_ann_sal": "85",
+        "job_types": "['Data Scientist', 'Research Scientist', 'Data Analyst']"
+    },
+    {
+        "State_code": "NC",
+        "State": "North Carolina",
+        "job_count": "21",
+        "avg_ann_sal": "99",
+        "job_types": "['Data Engineer', 'Data Scientist', 'Research Scientist']"
+    },
+    {
+        "State_code": "NE",
+        "State": "Nebraska",
+        "job_count": "4",
+        "avg_ann_sal": "41",
+        "job_types": "['Research Scientist']"
+    },
+    {
+        "State_code": "NJ",
+        "State": "New Jersey",
+        "job_count": "17",
+        "avg_ann_sal": "105",
+        "job_types": "['Data Engineer', 'Research Scientist', 'Data Analyst', 'Manager', 'Data Scientist']"
+    },
+    {
+        "State_code": "NM",
+        "State": "New Mexico",
+        "job_count": "3",
+        "avg_ann_sal": "75",
+        "job_types": "['Data Scientist']"
+    },
+    {
+        "State_code": "NY",
+        "State": "New York",
+        "job_count": "72",
+        "avg_ann_sal": "99",
+        "job_types": "['Data Scientist', 'Research Scientist', 'Data Engineer', 'Data Analyst', 'Machine Learning Engineer']"
+    },
+    {
+        "State_code": "OH",
+        "State": "Ohio",
+        "job_count": "14",
+        "avg_ann_sal": "88",
+        "job_types": "['Research Scientist', 'Data Scientist', 'Data Analyst']"
+    },
+    {
+        "State_code": "OR",
+        "State": "Oregon",
+        "job_count": "4",
+        "avg_ann_sal": "93",
+        "job_types": "['Data Scientist', 'Data Engineer']"
+    },
+    {
+        "State_code": "PA",
+        "State": "Pennsylvania",
+        "job_count": "33",
+        "avg_ann_sal": "93",
+        "job_types": "['Data Scientist', 'Data Analyst', 'Research Scientist', 'Machine Learning Engineer', 'Data Engineer', 'Manager']"
+    },
+    {
+        "State_code": "RI",
+        "State": "Rhode Island",
+        "job_count": "1",
+        "avg_ann_sal": "100",
+        "job_types": "['Data Analyst']"
+    },
+    {
+        "State_code": "SC",
+        "State": "South Carolina",
+        "job_count": "1",
+        "avg_ann_sal": "61",
+        "job_types": "['Research Scientist']"
+    },
+    {
+        "State_code": "TN",
+        "State": "Tennessee",
+        "job_count": "13",
+        "avg_ann_sal": "88",
+        "job_types": "['Data Engineer', 'Data Scientist', 'Data Analyst']"
+    },
+    {
+        "State_code": "TX",
+        "State": "Texas",
+        "job_count": "28",
+        "avg_ann_sal": "90",
+        "job_types": "['Data Scientist', 'Research Scientist', 'Data Engineer']"
+    },
+    {
+        "State_code": "UT",
+        "State": "Utah",
+        "job_count": "10",
+        "avg_ann_sal": "95",
+        "job_types": "['Data Engineer', 'Data Scientist', 'Data Analyst']"
+    },
+    {
+        "State_code": "VA",
+        "State": "Virginia",
+        "job_count": "41",
+        "avg_ann_sal": "96",
+        "job_types": "['Data Scientist', 'Data Engineer', 'Data Analyst', 'Machine Learning Engineer']"
+    },
+    {
+        "State_code": "WA",
+        "State": "Washington",
+        "job_count": "21",
+        "avg_ann_sal": "94",
+        "job_types": "['Data Scientist', 'Data Analyst']"
+    },
+    {
+        "State_code": "WI",
+        "State": "Wisconsin",
+        "job_count": "10",
+        "avg_ann_sal": "74",
+        "job_types": "['Data Analyst', 'Data Scientist', 'Research Scientist']"
+    }
+    
+]

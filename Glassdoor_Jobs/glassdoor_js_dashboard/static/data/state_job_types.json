@@ -1,0 +1,477 @@
+[
+    {
+        "state_code": "AL",
+        "job_titles": [
+            "Data Engineer",
+            "Research Scientist",
+            "Data Analyst",
+            "Data Scientist"
+        ],
+        "job_numbers": [
+            3,
+            2,
+            2,
+            1
+        ]
+    },
+    {
+        "state_code": "AZ",
+        "job_titles": [
+            "Data Engineer",
+            "Data Scientist",
+            "Data Analyst"
+        ],
+        "job_numbers": [
+            5,
+            3,
+            1
+        ]
+    },
+    {
+        "state_code": "CA",
+        "job_titles": [
+            "Data Scientist",
+            "Data Engineer",
+            "Research Scientist",
+            "Data Analyst",
+            "Machine Learning Engineer",
+            "Manager"
+        ],
+        "job_numbers": [
+            80,
+            26,
+            21,
+            17,
+            5,
+            3
+        ]
+    },
+    {
+        "state_code": "CO",
+        "job_titles": [
+            "Data Scientist",
+            "Research Scientist",
+            "Data Engineer",
+            "Data Analyst",
+            "Machine Learning Engineer"
+        ],
+        "job_numbers": [
+            3,
+            3,
+            3,
+            1,
+            1
+        ]
+    },
+    {
+        "state_code": "CT",
+        "job_titles": [
+            "Research Scientist",
+            "Data Scientist"
+        ],
+        "job_numbers": [
+            3,
+            2
+        ]
+    },
+    {
+        "state_code": "DC",
+        "job_titles": [
+            "Data Scientist",
+            "Data Engineer",
+            "Data Analyst"
+        ],
+        "job_numbers": [
+            5,
+            4,
+            2
+        ]
+    },
+    {
+        "state_code": "DE",
+        "job_titles": [
+            "Research Scientist"
+        ],
+        "job_numbers": [
+            6
+        ]
+    },
+    {
+        "state_code": "FL",
+        "job_titles": [
+            "Data Scientist",
+            "Data Analyst",
+            "Data Engineer"
+        ],
+        "job_numbers": [
+            7,
+            6,
+            3
+        ]
+    },
+    {
+        "state_code": "GA",
+        "job_titles": [
+            "Data Scientist",
+            "Research Scientist"
+        ],
+        "job_numbers": [
+            3,
+            3
+        ]
+    },
+    {
+        "state_code": "IA",
+        "job_titles": [
+            "Data Engineer",
+            "Data Scientist"
+        ],
+        "job_numbers": [
+            3,
+            2
+        ]
+    },
+    {
+        "state_code": "ID",
+        "job_titles": [
+            "Data Analyst"
+        ],
+        "job_numbers": [
+            2
+        ]
+    },
+    {
+        "state_code": "IL",
+        "job_titles": [
+            "Data Scientist",
+            "Data Engineer",
+            "Research Scientist",
+            "Data Analyst"
+        ],
+        "job_numbers": [
+            23,
+            8,
+            6,
+            3
+        ]
+    },
+    {
+        "state_code": "IN",
+        "job_titles": [
+            "Data Engineer",
+            "Data Scientist",
+            "Research Scientist"
+        ],
+        "job_numbers": [
+            6,
+            3,
+            1
+        ]
+    },
+    {
+        "state_code": "KS",
+        "job_titles": [
+            "Machine Learning Engineer"
+        ],
+        "job_numbers": [
+            3
+        ]
+    },
+    {
+        "state_code": "KY",
+        "job_titles": [
+            "Research Scientist",
+            "Data Scientist"
+        ],
+        "job_numbers": [
+            4,
+            2
+        ]
+    },
+    {
+        "state_code": "LA",
+        "job_titles": [
+            "Data Engineer",
+            "Data Analyst",
+            "Research Scientist"
+        ],
+        "job_numbers": [
+            2,
+            1,
+            1
+        ]
+    },
+    {
+        "state_code": "MA",
+        "job_titles": [
+            "Research Scientist",
+            "Data Scientist",
+            "Data Engineer",
+            "Director",
+            "Data Analyst",
+            "Manager"
+        ],
+        "job_numbers": [
+            42,
+            39,
+            12,
+            5,
+            4,
+            1
+        ]
+    },
+    {
+        "state_code": "MD",
+        "job_titles": [
+            "Data Scientist",
+            "Research Scientist",
+            "Data Engineer",
+            "Data Analyst"
+        ],
+        "job_numbers": [
+            14,
+            13,
+            6,
+            2
+        ]
+    },
+    {
+        "state_code": "MI",
+        "job_titles": [
+            "Data Scientist",
+            "Manager"
+        ],
+        "job_numbers": [
+            4,
+            2
+        ]
+    },
+    {
+        "state_code": "MN",
+        "job_titles": [
+            "Data Engineer",
+            "Data Analyst"
+        ],
+        "job_numbers": [
+            1,
+            1
+        ]
+    },
+    {
+        "state_code": "MO",
+        "job_titles": [
+            "Data Scientist",
+            "Research Scientist",
+            "Data Analyst"
+        ],
+        "job_numbers": [
+            4,
+            3,
+            2
+        ]
+    },
+    {
+        "state_code": "NC",
+        "job_titles": [
+            "Research Scientist",
+            "Data Engineer",
+            "Data Scientist"
+        ],
+        "job_numbers": [
+            12,
+            6,
+            3
+        ]
+    },
+    {
+        "state_code": "NE",
+        "job_titles": [
+            "Research Scientist"
+        ],
+        "job_numbers": [
+            4
+        ]
+    },
+    {
+        "state_code": "NJ",
+        "job_titles": [
+            "Data Analyst",
+            "Data Scientist",
+            "Data Engineer",
+            "Manager",
+            "Research Scientist"
+        ],
+        "job_numbers": [
+            6,
+            6,
+            2,
+            2,
+            1
+        ]
+    },
+    {
+        "state_code": "NM",
+        "job_titles": [
+            "Data Scientist"
+        ],
+        "job_numbers": [
+            3
+        ]
+    },
+    {
+        "state_code": "NY",
+        "job_titles": [
+            "Data Scientist",
+            "Data Analyst",
+            "Research Scientist",
+            "Data Engineer",
+            "Machine Learning Engineer"
+        ],
+        "job_numbers": [
+            41,
+            14,
+            11,
+            4,
+            2
+        ]
+    },
+    {
+        "state_code": "OH",
+        "job_titles": [
+            "Data Scientist",
+            "Data Analyst",
+            "Research Scientist"
+        ],
+        "job_numbers": [
+            7,
+            4,
+            3
+        ]
+    },
+    {
+        "state_code": "OR",
+        "job_titles": [
+            "Data Scientist",
+            "Data Engineer"
+        ],
+        "job_numbers": [
+            3,
+            1
+        ]
+    },
+    {
+        "state_code": "PA",
+        "job_titles": [
+            "Data Scientist",
+            "Data Analyst",
+            "Machine Learning Engineer",
+            "Research Scientist",
+            "Data Engineer",
+            "Manager"
+        ],
+        "job_numbers": [
+            10,
+            8,
+            7,
+            6,
+            1,
+            1
+        ]
+    },
+    {
+        "state_code": "RI",
+        "job_titles": [
+            "Data Analyst"
+        ],
+        "job_numbers": [
+            1
+        ]
+    },
+    {
+        "state_code": "SC",
+        "job_titles": [
+            "Research Scientist"
+        ],
+        "job_numbers": [
+            1
+        ]
+    },
+    {
+        "state_code": "TN",
+        "job_titles": [
+            "Data Engineer",
+            "Data Analyst",
+            "Data Scientist"
+        ],
+        "job_numbers": [
+            10,
+            2,
+            1
+        ]
+    },
+    {
+        "state_code": "TX",
+        "job_titles": [
+            "Data Scientist",
+            "Data Engineer",
+            "Research Scientist"
+        ],
+        "job_numbers": [
+            13,
+            8,
+            7
+        ]
+    },
+    {
+        "state_code": "UT",
+        "job_titles": [
+            "Data Analyst",
+            "Data Engineer",
+            "Data Scientist"
+        ],
+        "job_numbers": [
+            4,
+            3,
+            3
+        ]
+    },
+    {
+        "state_code": "VA",
+        "job_titles": [
+            "Data Scientist",
+            "Data Engineer",
+            "Data Analyst",
+            "Machine Learning Engineer"
+        ],
+        "job_numbers": [
+            23,
+            10,
+            6,
+            2
+        ]
+    },
+    {
+        "state_code": "WA",
+        "job_titles": [
+            "Data Scientist",
+            "Data Analyst"
+        ],
+        "job_numbers": [
+            18,
+            3
+        ]
+    },
+    {
+        "state_code": "WI",
+        "job_titles": [
+            "Research Scientist",
+            "Data Analyst",
+            "Data Scientist"
+        ],
+        "job_numbers": [
+            4,
+            3,
+            3
+        ]
+    }
+]

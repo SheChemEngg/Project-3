@@ -1,0 +1,1837 @@
+{
+    "states": [
+        "AL",
+        "AZ",
+        "CA",
+        "CO",
+        "CT",
+        "DC",
+        "DE",
+        "FL",
+        "GA",
+        "IA",
+        "ID",
+        "IL",
+        "IN",
+        "KS",
+        "KY",
+        "LA",
+        "MA",
+        "MD",
+        "MI",
+        "MN",
+        "MO",
+        "NC",
+        "NE",
+        "NJ",
+        "NM",
+        "NY",
+        "OH",
+        "OR",
+        "PA",
+        "RI",
+        "SC",
+        "TN",
+        "TX",
+        "UT",
+        "VA",
+        "WA",
+        "WI"
+    ],
+    "state_data": [
+        {
+            "State_code": "AL",
+            "State": "Alabama",
+            "job_count": 8,
+            "avg_ann_sal": 58,
+            "job_types": [
+                "Data Scientist",
+                "Research Scientist",
+                "Data Analyst",
+                "Data Engineer"
+            ],
+            "Region": "Southeast",
+            "Region_Salary": 88.0
+        },
+        {
+            "State_code": "AZ",
+            "State": "Arizona",
+            "job_count": 9,
+            "avg_ann_sal": 86,
+            "job_types": [
+                "Data Analyst",
+                "Data Scientist",
+                "Data Engineer"
+            ],
+            "Region": "Southwest",
+            "Region_Salary": 87.0
+        },
+        {
+            "State_code": "CA",
+            "State": "California",
+            "job_count": 152,
+            "avg_ann_sal": 124,
+            "job_types": [
+                "Data Scientist",
+                "Data Analyst",
+                "Research Scientist",
+                "Data Engineer",
+                "Machine Learning Engineer",
+                "Manager"
+            ],
+            "Region": "West",
+            "Region_Salary": 115.0
+        },
+        {
+            "State_code": "CO",
+            "State": "Colorado",
+            "job_count": 11,
+            "avg_ann_sal": 78,
+            "job_types": [
+                "Data Scientist",
+                "Data Analyst",
+                "Machine Learning Engineer",
+                "Research Scientist",
+                "Data Engineer"
+            ],
+            "Region": "West",
+            "Region_Salary": 115.0
+        },
+        {
+            "State_code": "CT",
+            "State": "Connecticut",
+            "job_count": 5,
+            "avg_ann_sal": 72,
+            "job_types": [
+                "Data Scientist",
+                "Research Scientist"
+            ],
+            "Region": "Northeast",
+            "Region_Salary": 99.0
+        },
+        {
+            "State_code": "DC",
+            "State": "Washington DC",
+            "job_count": 11,
+            "avg_ann_sal": 111,
+            "job_types": [
+                "Data Scientist",
+                "Data Engineer",
+                "Data Analyst"
+            ],
+            "Region": "Northeast",
+            "Region_Salary": 99.0
+        },
+        {
+            "State_code": "DE",
+            "State": "Delaware",
+            "job_count": 6,
+            "avg_ann_sal": 28,
+            "job_types": [
+                "Research Scientist"
+            ],
+            "Region": "Northeast",
+            "Region_Salary": 99.0
+        },
+        {
+            "State_code": "FL",
+            "State": "Florida",
+            "job_count": 16,
+            "avg_ann_sal": 78,
+            "job_types": [
+                "Data Scientist",
+                "Data Engineer",
+                "Data Analyst"
+            ],
+            "Region": "Southeast",
+            "Region_Salary": 88.0
+        },
+        {
+            "State_code": "GA",
+            "State": "Georgia",
+            "job_count": 6,
+            "avg_ann_sal": 81,
+            "job_types": [
+                "Data Scientist",
+                "Research Scientist"
+            ],
+            "Region": "Southeast",
+            "Region_Salary": 88.0
+        },
+        {
+            "State_code": "IA",
+            "State": "Iowa",
+            "job_count": 5,
+            "avg_ann_sal": 79,
+            "job_types": [
+                "Data Engineer",
+                "Data Scientist"
+            ],
+            "Region": "Midwest",
+            "Region_Salary": 96.0
+        },
+        {
+            "State_code": "ID",
+            "State": "Idaho",
+            "job_count": 2,
+            "avg_ann_sal": 57,
+            "job_types": [
+                "Data Analyst"
+            ],
+            "Region": "West",
+            "Region_Salary": 115.0
+        },
+        {
+            "State_code": "IL",
+            "State": "Illinois",
+            "job_count": 40,
+            "avg_ann_sal": 117,
+            "job_types": [
+                "Data Scientist",
+                "Data Analyst",
+                "Data Engineer",
+                "Research Scientist"
+            ],
+            "Region": "Midwest",
+            "Region_Salary": 96.0
+        },
+        {
+            "State_code": "IN",
+            "State": "Indiana",
+            "job_count": 10,
+            "avg_ann_sal": 91,
+            "job_types": [
+                "Research Scientist",
+                "Data Scientist",
+                "Data Engineer"
+            ],
+            "Region": "Midwest",
+            "Region_Salary": 96.0
+        },
+        {
+            "State_code": "KS",
+            "State": "Kansas",
+            "job_count": 3,
+            "avg_ann_sal": 87,
+            "job_types": [
+                "Machine Learning Engineer"
+            ],
+            "Region": "Midwest",
+            "Region_Salary": 96.0
+        },
+        {
+            "State_code": "KY",
+            "State": "Kentucky",
+            "job_count": 6,
+            "avg_ann_sal": 97,
+            "job_types": [
+                "Data Scientist",
+                "Research Scientist"
+            ],
+            "Region": "Southeast",
+            "Region_Salary": 88.0
+        },
+        {
+            "State_code": "LA",
+            "State": "Louisiana",
+            "job_count": 4,
+            "avg_ann_sal": 53,
+            "job_types": [
+                "Data Analyst",
+                "Data Engineer",
+                "Research Scientist"
+            ],
+            "Region": "Southeast",
+            "Region_Salary": 88.0
+        },
+        {
+            "State_code": "MA",
+            "State": "Massachusetts",
+            "job_count": 103,
+            "avg_ann_sal": 107,
+            "job_types": [
+                "Data Scientist",
+                "Research Scientist",
+                "Data Analyst",
+                "Data Engineer",
+                "Director",
+                "Manager"
+            ],
+            "Region": "Northeast",
+            "Region_Salary": 99.0
+        },
+        {
+            "State_code": "MD",
+            "State": "Maryland",
+            "job_count": 35,
+            "avg_ann_sal": 98,
+            "job_types": [
+                "Data Scientist",
+                "Research Scientist",
+                "Data Analyst",
+                "Data Engineer"
+            ],
+            "Region": "Northeast",
+            "Region_Salary": 99.0
+        },
+        {
+            "State_code": "MI",
+            "State": "Michigan",
+            "job_count": 6,
+            "avg_ann_sal": 101,
+            "job_types": [
+                "Data Scientist",
+                "Manager"
+            ],
+            "Region": "Midwest",
+            "Region_Salary": 96.0
+        },
+        {
+            "State_code": "MN",
+            "State": "Minnesota",
+            "job_count": 2,
+            "avg_ann_sal": 86,
+            "job_types": [
+                "Data Engineer",
+                "Data Analyst"
+            ],
+            "Region": "Midwest",
+            "Region_Salary": 96.0
+        },
+        {
+            "State_code": "MO",
+            "State": "Missouri",
+            "job_count": 9,
+            "avg_ann_sal": 85,
+            "job_types": [
+                "Data Scientist",
+                "Research Scientist",
+                "Data Analyst"
+            ],
+            "Region": "Midwest",
+            "Region_Salary": 96.0
+        },
+        {
+            "State_code": "NC",
+            "State": "North Carolina",
+            "job_count": 21,
+            "avg_ann_sal": 99,
+            "job_types": [
+                "Data Engineer",
+                "Data Scientist",
+                "Research Scientist"
+            ],
+            "Region": "Southeast",
+            "Region_Salary": 88.0
+        },
+        {
+            "State_code": "NE",
+            "State": "Nebraska",
+            "job_count": 4,
+            "avg_ann_sal": 41,
+            "job_types": [
+                "Research Scientist"
+            ],
+            "Region": "Midwest",
+            "Region_Salary": 96.0
+        },
+        {
+            "State_code": "NJ",
+            "State": "New Jersey",
+            "job_count": 17,
+            "avg_ann_sal": 105,
+            "job_types": [
+                "Data Engineer",
+                "Research Scientist",
+                "Data Analyst",
+                "Manager",
+                "Data Scientist"
+            ],
+            "Region": "Northeast",
+            "Region_Salary": 99.0
+        },
+        {
+            "State_code": "NM",
+            "State": "New Mexico",
+            "job_count": 3,
+            "avg_ann_sal": 75,
+            "job_types": [
+                "Data Scientist"
+            ],
+            "Region": "Southwest",
+            "Region_Salary": 87.0
+        },
+        {
+            "State_code": "NY",
+            "State": "New York",
+            "job_count": 72,
+            "avg_ann_sal": 99,
+            "job_types": [
+                "Data Scientist",
+                "Research Scientist",
+                "Data Engineer",
+                "Data Analyst",
+                "Machine Learning Engineer"
+            ],
+            "Region": "Northeast",
+            "Region_Salary": 99.0
+        },
+        {
+            "State_code": "OH",
+            "State": "Ohio",
+            "job_count": 14,
+            "avg_ann_sal": 88,
+            "job_types": [
+                "Research Scientist",
+                "Data Scientist",
+                "Data Analyst"
+            ],
+            "Region": "Midwest",
+            "Region_Salary": 96.0
+        },
+        {
+            "State_code": "OR",
+            "State": "Oregon",
+            "job_count": 4,
+            "avg_ann_sal": 93,
+            "job_types": [
+                "Data Scientist",
+                "Data Engineer"
+            ],
+            "Region": "West",
+            "Region_Salary": 115.0
+        },
+        {
+            "State_code": "PA",
+            "State": "Pennsylvania",
+            "job_count": 33,
+            "avg_ann_sal": 93,
+            "job_types": [
+                "Data Scientist",
+                "Data Analyst",
+                "Research Scientist",
+                "Machine Learning Engineer",
+                "Data Engineer",
+                "Manager"
+            ],
+            "Region": "Northeast",
+            "Region_Salary": 99.0
+        },
+        {
+            "State_code": "RI",
+            "State": "Rhode Island",
+            "job_count": 1,
+            "avg_ann_sal": 100,
+            "job_types": [
+                "Data Analyst"
+            ],
+            "Region": "Northeast",
+            "Region_Salary": 99.0
+        },
+        {
+            "State_code": "SC",
+            "State": "South Carolina",
+            "job_count": 1,
+            "avg_ann_sal": 61,
+            "job_types": [
+                "Research Scientist"
+            ],
+            "Region": "Southeast",
+            "Region_Salary": 88.0
+        },
+        {
+            "State_code": "TN",
+            "State": "Tennessee",
+            "job_count": 13,
+            "avg_ann_sal": 88,
+            "job_types": [
+                "Data Engineer",
+                "Data Scientist",
+                "Data Analyst"
+            ],
+            "Region": "Southeast",
+            "Region_Salary": 88.0
+        },
+        {
+            "State_code": "TX",
+            "State": "Texas",
+            "job_count": 28,
+            "avg_ann_sal": 90,
+            "job_types": [
+                "Data Scientist",
+                "Research Scientist",
+                "Data Engineer"
+            ],
+            "Region": "Southwest",
+            "Region_Salary": 87.0
+        },
+        {
+            "State_code": "UT",
+            "State": "Utah",
+            "job_count": 10,
+            "avg_ann_sal": 95,
+            "job_types": [
+                "Data Engineer",
+                "Data Scientist",
+                "Data Analyst"
+            ],
+            "Region": "West",
+            "Region_Salary": 115.0
+        },
+        {
+            "State_code": "VA",
+            "State": "Virginia",
+            "job_count": 41,
+            "avg_ann_sal": 96,
+            "job_types": [
+                "Data Scientist",
+                "Data Engineer",
+                "Data Analyst",
+                "Machine Learning Engineer"
+            ],
+            "Region": "Southeast",
+            "Region_Salary": 88.0
+        },
+        {
+            "State_code": "WA",
+            "State": "Washington",
+            "job_count": 21,
+            "avg_ann_sal": 94,
+            "job_types": [
+                "Data Scientist",
+                "Data Analyst"
+            ],
+            "Region": "West",
+            "Region_Salary": 115.0
+        },
+        {
+            "State_code": "WI",
+            "State": "Wisconsin",
+            "job_count": 10,
+            "avg_ann_sal": 74,
+            "job_types": [
+                "Data Analyst",
+                "Data Scientist",
+                "Research Scientist"
+            ],
+            "Region": "Midwest",
+            "Region_Salary": 96.0
+        }
+    ],
+    "state_job_types": [
+        {
+            "state_code": "AL",
+            "job_titles": [
+                "Data Engineer",
+                "Research Scientist",
+                "Data Analyst",
+                "Data Scientist"
+            ],
+            "job_numbers": [
+                3,
+                2,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "AZ",
+            "job_titles": [
+                "Data Engineer",
+                "Data Scientist",
+                "Data Analyst"
+            ],
+            "job_numbers": [
+                5,
+                3,
+                1
+            ]
+        },
+        {
+            "state_code": "CA",
+            "job_titles": [
+                "Data Scientist",
+                "Data Engineer",
+                "Research Scientist",
+                "Data Analyst",
+                "Machine Learning Engineer",
+                "Manager"
+            ],
+            "job_numbers": [
+                80,
+                26,
+                21,
+                17,
+                5,
+                3
+            ]
+        },
+        {
+            "state_code": "CO",
+            "job_titles": [
+                "Data Scientist",
+                "Research Scientist",
+                "Data Engineer",
+                "Data Analyst",
+                "Machine Learning Engineer"
+            ],
+            "job_numbers": [
+                3,
+                3,
+                3,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "CT",
+            "job_titles": [
+                "Research Scientist",
+                "Data Scientist"
+            ],
+            "job_numbers": [
+                3,
+                2
+            ]
+        },
+        {
+            "state_code": "DC",
+            "job_titles": [
+                "Data Scientist",
+                "Data Engineer",
+                "Data Analyst"
+            ],
+            "job_numbers": [
+                5,
+                4,
+                2
+            ]
+        },
+        {
+            "state_code": "DE",
+            "job_titles": [
+                "Research Scientist"
+            ],
+            "job_numbers": [
+                6
+            ]
+        },
+        {
+            "state_code": "FL",
+            "job_titles": [
+                "Data Scientist",
+                "Data Analyst",
+                "Data Engineer"
+            ],
+            "job_numbers": [
+                7,
+                6,
+                3
+            ]
+        },
+        {
+            "state_code": "GA",
+            "job_titles": [
+                "Data Scientist",
+                "Research Scientist"
+            ],
+            "job_numbers": [
+                3,
+                3
+            ]
+        },
+        {
+            "state_code": "IA",
+            "job_titles": [
+                "Data Engineer",
+                "Data Scientist"
+            ],
+            "job_numbers": [
+                3,
+                2
+            ]
+        },
+        {
+            "state_code": "ID",
+            "job_titles": [
+                "Data Analyst"
+            ],
+            "job_numbers": [
+                2
+            ]
+        },
+        {
+            "state_code": "IL",
+            "job_titles": [
+                "Data Scientist",
+                "Data Engineer",
+                "Research Scientist",
+                "Data Analyst"
+            ],
+            "job_numbers": [
+                23,
+                8,
+                6,
+                3
+            ]
+        },
+        {
+            "state_code": "IN",
+            "job_titles": [
+                "Data Engineer",
+                "Data Scientist",
+                "Research Scientist"
+            ],
+            "job_numbers": [
+                6,
+                3,
+                1
+            ]
+        },
+        {
+            "state_code": "KS",
+            "job_titles": [
+                "Machine Learning Engineer"
+            ],
+            "job_numbers": [
+                3
+            ]
+        },
+        {
+            "state_code": "KY",
+            "job_titles": [
+                "Research Scientist",
+                "Data Scientist"
+            ],
+            "job_numbers": [
+                4,
+                2
+            ]
+        },
+        {
+            "state_code": "LA",
+            "job_titles": [
+                "Data Engineer",
+                "Data Analyst",
+                "Research Scientist"
+            ],
+            "job_numbers": [
+                2,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "MA",
+            "job_titles": [
+                "Research Scientist",
+                "Data Scientist",
+                "Data Engineer",
+                "Director",
+                "Data Analyst",
+                "Manager"
+            ],
+            "job_numbers": [
+                42,
+                39,
+                12,
+                5,
+                4,
+                1
+            ]
+        },
+        {
+            "state_code": "MD",
+            "job_titles": [
+                "Data Scientist",
+                "Research Scientist",
+                "Data Engineer",
+                "Data Analyst"
+            ],
+            "job_numbers": [
+                14,
+                13,
+                6,
+                2
+            ]
+        },
+        {
+            "state_code": "MI",
+            "job_titles": [
+                "Data Scientist",
+                "Manager"
+            ],
+            "job_numbers": [
+                4,
+                2
+            ]
+        },
+        {
+            "state_code": "MN",
+            "job_titles": [
+                "Data Engineer",
+                "Data Analyst"
+            ],
+            "job_numbers": [
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "MO",
+            "job_titles": [
+                "Data Scientist",
+                "Research Scientist",
+                "Data Analyst"
+            ],
+            "job_numbers": [
+                4,
+                3,
+                2
+            ]
+        },
+        {
+            "state_code": "NC",
+            "job_titles": [
+                "Research Scientist",
+                "Data Engineer",
+                "Data Scientist"
+            ],
+            "job_numbers": [
+                12,
+                6,
+                3
+            ]
+        },
+        {
+            "state_code": "NE",
+            "job_titles": [
+                "Research Scientist"
+            ],
+            "job_numbers": [
+                4
+            ]
+        },
+        {
+            "state_code": "NJ",
+            "job_titles": [
+                "Data Analyst",
+                "Data Scientist",
+                "Data Engineer",
+                "Manager",
+                "Research Scientist"
+            ],
+            "job_numbers": [
+                6,
+                6,
+                2,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "NM",
+            "job_titles": [
+                "Data Scientist"
+            ],
+            "job_numbers": [
+                3
+            ]
+        },
+        {
+            "state_code": "NY",
+            "job_titles": [
+                "Data Scientist",
+                "Data Analyst",
+                "Research Scientist",
+                "Data Engineer",
+                "Machine Learning Engineer"
+            ],
+            "job_numbers": [
+                41,
+                14,
+                11,
+                4,
+                2
+            ]
+        },
+        {
+            "state_code": "OH",
+            "job_titles": [
+                "Data Scientist",
+                "Data Analyst",
+                "Research Scientist"
+            ],
+            "job_numbers": [
+                7,
+                4,
+                3
+            ]
+        },
+        {
+            "state_code": "OR",
+            "job_titles": [
+                "Data Scientist",
+                "Data Engineer"
+            ],
+            "job_numbers": [
+                3,
+                1
+            ]
+        },
+        {
+            "state_code": "PA",
+            "job_titles": [
+                "Data Scientist",
+                "Data Analyst",
+                "Machine Learning Engineer",
+                "Research Scientist",
+                "Data Engineer",
+                "Manager"
+            ],
+            "job_numbers": [
+                10,
+                8,
+                7,
+                6,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "RI",
+            "job_titles": [
+                "Data Analyst"
+            ],
+            "job_numbers": [
+                1
+            ]
+        },
+        {
+            "state_code": "SC",
+            "job_titles": [
+                "Research Scientist"
+            ],
+            "job_numbers": [
+                1
+            ]
+        },
+        {
+            "state_code": "TN",
+            "job_titles": [
+                "Data Engineer",
+                "Data Analyst",
+                "Data Scientist"
+            ],
+            "job_numbers": [
+                10,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "TX",
+            "job_titles": [
+                "Data Scientist",
+                "Data Engineer",
+                "Research Scientist"
+            ],
+            "job_numbers": [
+                13,
+                8,
+                7
+            ]
+        },
+        {
+            "state_code": "UT",
+            "job_titles": [
+                "Data Analyst",
+                "Data Engineer",
+                "Data Scientist"
+            ],
+            "job_numbers": [
+                4,
+                3,
+                3
+            ]
+        },
+        {
+            "state_code": "VA",
+            "job_titles": [
+                "Data Scientist",
+                "Data Engineer",
+                "Data Analyst",
+                "Machine Learning Engineer"
+            ],
+            "job_numbers": [
+                23,
+                10,
+                6,
+                2
+            ]
+        },
+        {
+            "state_code": "WA",
+            "job_titles": [
+                "Data Scientist",
+                "Data Analyst"
+            ],
+            "job_numbers": [
+                18,
+                3
+            ]
+        },
+        {
+            "state_code": "WI",
+            "job_titles": [
+                "Research Scientist",
+                "Data Analyst",
+                "Data Scientist"
+            ],
+            "job_numbers": [
+                4,
+                3,
+                3
+            ]
+        }
+    ],
+    "state_sector_types": [
+        {
+            "state_code": "AL", 
+            "Sectors": [
+                "Aerospace & Defense",
+                "Information Technology",
+                "Business Services",
+                "Consumer Services"
+            ],
+            "Average_Avg_Salary": [
+                62.2,
+                48.0,
+                39.5,
+                65.0
+            ],
+            "Number_of_Jobs": [
+                5,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "AZ",
+            "Sectors": [
+                "Information Technology",
+                "Finance",
+                "Health Care",
+                "Biotech & Pharmaceuticals"
+            ],
+            "Average_Avg_Salary": [
+                61.7,
+                124.5,
+                100.0,
+                68.5
+            ],
+            "Number_of_Jobs": [
+                3,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "state_code": "CA",
+            "Sectors": [
+                "Information Technology",
+                "Biotech & Pharmaceuticals",
+                "Business Services",
+                "Health Care",
+                "Finance",
+                "Telecommunications",
+                "Aerospace & Defense",
+                "Retail",
+                "Arts, Entertainment & Recreation",
+                "Media",
+                "Education",
+                "Manufacturing",
+                "Insurance",
+                "Non-Profit",
+                "Real Estate",
+                "Accounting & Legal",
+                "Consumer Services"
+            ],
+            "Average_Avg_Salary": [
+                137.8,
+                118.5,
+                105.8,
+                100.4,
+                148.0,
+                131.5,
+                141.2,
+                88.0,
+                48.5,
+                106.2,
+                133.7,
+                97.3,
+                95.5,
+                47.5,
+                103.5,
+                113.5,
+                139.5
+            ],
+            "Number_of_Jobs": [
+                69,
+                22,
+                13,
+                10,
+                7,
+                4,
+                4,
+                4,
+                4,
+                3,
+                3,
+                3,
+                2,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "CO",
+            "Sectors": [
+                "Insurance",
+                "Health Care",
+                "Information Technology",
+                "Aerospace & Defense",
+                "Travel & Tourism",
+                "Biotech & Pharmaceuticals"
+            ],
+            "Average_Avg_Salary": [
+                96.1,
+                31.5,
+                29.5,
+                100.5,
+                105.0,
+                133.5
+            ],
+            "Number_of_Jobs": [
+                4,
+                3,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "CT",
+            "Sectors": [
+                "Information Technology",
+                "Biotech & Pharmaceuticals"
+            ],
+            "Average_Avg_Salary": [
+                62.5,
+                84.0
+            ],
+            "Number_of_Jobs": [
+                3,
+                2
+            ]
+        },
+        {
+            "state_code": "DC",
+            "Sectors": [
+                "Information Technology",
+                "Business Services",
+                "Health Care",
+                "Biotech & Pharmaceuticals"
+            ],
+            "Average_Avg_Salary": [
+                119.2,
+                116.2,
+                50.0,
+                101.0
+            ],
+            "Number_of_Jobs": [
+                5,
+                4,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "DE",
+            "Sectors": [
+                "Health Care"
+            ],
+            "Average_Avg_Salary": [
+                27.5
+            ],
+            "Number_of_Jobs": [
+                6
+            ]
+        },
+        {
+            "state_code": "FL",
+            "Sectors": [
+                "Business Services",
+                "Information Technology",
+                "Telecommunications"
+            ],
+            "Average_Avg_Salary": [
+                77.1,
+                89.5,
+                44.0
+            ],
+            "Number_of_Jobs": [
+                8,
+                6,
+                2
+            ]
+        },
+        {
+            "state_code": "GA",
+            "Sectors": [
+                "Biotech & Pharmaceuticals",
+                "Information Technology",
+                "Finance"
+            ],
+            "Average_Avg_Salary": [
+                80.0,
+                79.5,
+                85.0
+            ],
+            "Number_of_Jobs": [
+                3,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "IA",
+            "Sectors": [
+                "Insurance",
+                "Finance",
+                "Manufacturing"
+            ],
+            "Average_Avg_Salary": [
+                115.5,
+                43.0,
+                77.5
+            ],
+            "Number_of_Jobs": [
+                2,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "ID",
+            "Sectors": [
+                "Information Technology",
+                "Finance"
+            ],
+            "Average_Avg_Salary": [
+                49.0,
+                63.5
+            ],
+            "Number_of_Jobs": [
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "IL",
+            "Sectors": [
+                "Information Technology",
+                "Business Services",
+                "Manufacturing",
+                "Insurance",
+                "Transportation & Logistics",
+                "Real Estate",
+                "Finance",
+                "Biotech & Pharmaceuticals"
+            ],
+            "Average_Avg_Salary": [
+                83.8,
+                118.4,
+                62.0,
+                201.6,
+                109.5,
+                117.5,
+                140.0,
+                133.0
+            ],
+            "Number_of_Jobs": [
+                8,
+                7,
+                6,
+                6,
+                5,
+                3,
+                3,
+                2
+            ]
+        },
+        {
+            "state_code": "IN",
+            "Sectors": [
+                "Business Services",
+                "Information Technology",
+                "Insurance",
+                "Agriculture & Forestry"
+            ],
+            "Average_Avg_Salary": [
+                118.5,
+                81.8,
+                51.5,
+                80.5
+            ],
+            "Number_of_Jobs": [
+                4,
+                3,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "KS",
+            "Sectors": [
+                "Finance"
+            ],
+            "Average_Avg_Salary": [
+                87.0
+            ],
+            "Number_of_Jobs": [
+                3
+            ]
+        },
+        {
+            "state_code": "KY",
+            "Sectors": [
+                "Manufacturing",
+                "Transportation & Logistics"
+            ],
+            "Average_Avg_Salary": [
+                103.5,
+                84.0
+            ],
+            "Number_of_Jobs": [
+                4,
+                2
+            ]
+        },
+        {
+            "state_code": "LA",
+            "Sectors": [
+                "Information Technology",
+                "Government"
+            ],
+            "Average_Avg_Salary": [
+                63.0,
+                20.0
+            ],
+            "Number_of_Jobs": [
+                3,
+                1
+            ]
+        },
+        {
+            "state_code": "MA",
+            "Sectors": [
+                "Biotech & Pharmaceuticals",
+                "Insurance",
+                "Business Services",
+                "Information Technology",
+                "Construction, Repair & Maintenance",
+                "Finance",
+                "Government",
+                "Aerospace & Defense",
+                "Health Care"
+            ],
+            "Average_Avg_Salary": [
+                116.8,
+                96.4,
+                109.0,
+                114.7,
+                26.5,
+                75.2,
+                69.5,
+                110.0,
+                98.5
+            ],
+            "Number_of_Jobs": [
+                56,
+                25,
+                6,
+                6,
+                3,
+                3,
+                2,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "MD",
+            "Sectors": [
+                "Biotech & Pharmaceuticals",
+                "Information Technology",
+                "Health Care",
+                "Finance",
+                "Aerospace & Defense",
+                "Insurance",
+                "Business Services"
+            ],
+            "Average_Avg_Salary": [
+                98.2,
+                98.1,
+                100.8,
+                73.5,
+                114.5,
+                107.0,
+                62.0
+            ],
+            "Number_of_Jobs": [
+                13,
+                12,
+                3,
+                2,
+                2,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "MI",
+            "Sectors": [
+                "Real Estate",
+                "Business Services",
+                "Manufacturing",
+                "Information Technology"
+            ],
+            "Average_Avg_Salary": [
+                96.0,
+                87.5,
+                104.5,
+                130.0
+            ],
+            "Number_of_Jobs": [
+                2,
+                2,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "MN",
+            "Sectors": [
+                "Business Services"
+            ],
+            "Average_Avg_Salary": [
+                85.5
+            ],
+            "Number_of_Jobs": [
+                2
+            ]
+        },
+        {
+            "state_code": "MO",
+            "Sectors": [
+                "Information Technology",
+                "Business Services",
+                "Oil, Gas, Energy & Utilities",
+                "Finance",
+                "Education"
+            ],
+            "Average_Avg_Salary": [
+                143.5,
+                58.2,
+                61.0,
+                70.5,
+                96.0
+            ],
+            "Number_of_Jobs": [
+                2,
+                2,
+                2,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "NC",
+            "Sectors": [
+                "Manufacturing",
+                "Information Technology",
+                "Business Services",
+                "Insurance"
+            ],
+            "Average_Avg_Salary": [
+                96.0,
+                98.3,
+                88.3,
+                117.0
+            ],
+            "Number_of_Jobs": [
+                10,
+                5,
+                3,
+                3
+            ]
+        },
+        {
+            "state_code": "NE",
+            "Sectors": [
+                "Health Care",
+                "Non-Profit"
+            ],
+            "Average_Avg_Salary": [
+                37.2,
+                52.5
+            ],
+            "Number_of_Jobs": [
+                3,
+                1
+            ]
+        },
+        {
+            "state_code": "NJ",
+            "Sectors": [
+                "Information Technology",
+                "Manufacturing",
+                "Finance",
+                "Business Services",
+                "Insurance",
+                "Media"
+            ],
+            "Average_Avg_Salary": [
+                69.7,
+                100.5,
+                115.8,
+                145.7,
+                98.5,
+                146.0
+            ],
+            "Number_of_Jobs": [
+                5,
+                3,
+                3,
+                3,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "NM",
+            "Sectors": [
+                "Biotech & Pharmaceuticals",
+                "Aerospace & Defense"
+            ],
+            "Average_Avg_Salary": [
+                75.5,
+                72.0
+            ],
+            "Number_of_Jobs": [
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "NY",
+            "Sectors": [
+                "Business Services",
+                "Information Technology",
+                "Health Care",
+                "Biotech & Pharmaceuticals",
+                "Insurance",
+                "Travel & Tourism",
+                "Retail",
+                "Education",
+                "Finance",
+                "Consumer Services",
+                "Media",
+                "Manufacturing"
+            ],
+            "Average_Avg_Salary": [
+                90.9,
+                114.2,
+                80.9,
+                119.5,
+                125.6,
+                64.4,
+                101.0,
+                70.2,
+                129.5,
+                97.5,
+                128.0,
+                73.0
+            ],
+            "Number_of_Jobs": [
+                14,
+                13,
+                11,
+                8,
+                7,
+                7,
+                3,
+                3,
+                2,
+                2,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "OH",
+            "Sectors": [
+                "Insurance",
+                "Mining & Metals",
+                "Government",
+                "Aerospace & Defense",
+                "Media",
+                "Business Services",
+                "Transportation & Logistics"
+            ],
+            "Average_Avg_Salary": [
+                75.3,
+                107.0,
+                93.5,
+                86.5,
+                107.5,
+                100.0,
+                79.0
+            ],
+            "Number_of_Jobs": [
+                6,
+                2,
+                2,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "OR",
+            "Sectors": [
+                "Finance",
+                "Business Services",
+                "Information Technology"
+            ],
+            "Average_Avg_Salary": [
+                99.5,
+                96.5,
+                73.0
+            ],
+            "Number_of_Jobs": [
+                2,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "PA",
+            "Sectors": [
+                "Education",
+                "Business Services",
+                "Biotech & Pharmaceuticals",
+                "Health Care",
+                "Retail",
+                "Finance",
+                "Insurance",
+                "Mining & Metals"
+            ],
+            "Average_Avg_Salary": [
+                108.0,
+                111.1,
+                92.0,
+                36.8,
+                85.0,
+                49.0,
+                66.5,
+                98.0
+            ],
+            "Number_of_Jobs": [
+                11,
+                8,
+                4,
+                3,
+                2,
+                2,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "RI",
+            "Sectors": [
+                "Insurance"
+            ],
+            "Average_Avg_Salary": [
+                100.0
+            ],
+            "Number_of_Jobs": [
+                1
+            ]
+        },
+        {
+            "state_code": "SC",
+            "Sectors": [
+                "Business Services"
+            ],
+            "Average_Avg_Salary": [
+                60.5
+            ],
+            "Number_of_Jobs": [
+                1
+            ]
+        },
+        {
+            "state_code": "TN",
+            "Sectors": [
+                "Retail",
+                "Information Technology",
+                "Finance",
+                "Health Care",
+                "Insurance",
+                "Aerospace & Defense"
+            ],
+            "Average_Avg_Salary": [
+                98.0,
+                97.7,
+                13.5,
+                109.0,
+                106.5,
+                96.0
+            ],
+            "Number_of_Jobs": [
+                4,
+                3,
+                2,
+                2,
+                1,
+                1
+            ]
+        },
+        {
+            "state_code": "TX",
+            "Sectors": [
+                "Business Services",
+                "Information Technology",
+                "Health Care",
+                "Education",
+                "Real Estate",
+                "Retail",
+                "Insurance",
+                "Finance"
+            ],
+            "Average_Avg_Salary": [
+                93.2,
+                106.9,
+                21.5,
+                99.5,
+                95.0,
+                139.0,
+                96.0,
+                85.0
+            ],
+            "Number_of_Jobs": [
+                9,
+                5,
+                4,
+                3,
+                2,
+                2,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "UT",
+            "Sectors": [
+                "Non-Profit",
+                "Biotech & Pharmaceuticals",
+                "Manufacturing"
+            ],
+            "Average_Avg_Salary": [
+                78.8,
+                140.5,
+                47.0
+            ],
+            "Number_of_Jobs": [
+                6,
+                3,
+                1
+            ]
+        },
+        {
+            "state_code": "VA",
+            "Sectors": [
+                "Information Technology",
+                "Aerospace & Defense",
+                "Government",
+                "Business Services",
+                "Education",
+                "Health Care"
+            ],
+            "Average_Avg_Salary": [
+                104.0,
+                100.7,
+                86.3,
+                83.9,
+                61.5,
+                81.0
+            ],
+            "Number_of_Jobs": [
+                18,
+                9,
+                6,
+                5,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "WA",
+            "Sectors": [
+                "Oil, Gas, Energy & Utilities",
+                "Information Technology",
+                "Business Services",
+                "Non-Profit"
+            ],
+            "Average_Avg_Salary": [
+                83.7,
+                131.5,
+                59.5,
+                44.5
+            ],
+            "Number_of_Jobs": [
+                12,
+                6,
+                2,
+                1
+            ]
+        },
+        {
+            "state_code": "WI",
+            "Sectors": [
+                "Finance",
+                "Manufacturing",
+                "Insurance"
+            ],
+            "Average_Avg_Salary": [
+                90.0,
+                54.0,
+                78.5
+            ],
+            "Number_of_Jobs": [
+                4,
+                4,
+                2
+            ]
+        }
+    ]
+}
