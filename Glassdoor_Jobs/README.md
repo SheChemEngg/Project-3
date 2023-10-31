@@ -1,9 +1,9 @@
 
 # PROJECT 3  REPORT
 
-Glassdoor Jobs (2017-18)
+## Glassdoor Jobs (2017-18)
 
-Introduction
+## INTRODUCTION
 
 
 What is the best location in the country for job opportunities?
@@ -47,11 +47,11 @@ An overview of job prospects around the country (USA) in graphs  (Graph Descript
 Box-and whiskers plots of all continuous numeric features in the dataset.  
 Each box includes 50% of the data within a feature.
 Observations:
-•	Most companies are between the ages of 10 years and 60 years.  Ages of some newly founded companies are not listed.
-•	Most average annual salaries range between $75k and $130k.
-•	Most maximum average salaries range between $90k to $160k.
-•	Most employment sizes of companies range between 500 to 7500.
-•	Most Glassdoor user ratings of a company, defined in the interval of 0 to 5, is between 3.3 and 4.
+*	Most companies are between the ages of 10 years and 60 years.  Ages of some newly founded companies are not listed.
+*	Most average annual salaries range between $75k and $130k.
+*	Most maximum average salaries range between $90k to $160k.
+*	Most employment sizes of companies range between 500 to 7500.
+*	Most Glassdoor user ratings of a company, defined in the interval of 0 to 5, is between 3.3 and 4.
 
 These ranges when viewed, give a general understanding of the overall data, without other categorical specifications, such as ‘state’ and ‘region’ where the jobs are located.
 
@@ -92,11 +92,11 @@ Pie chart showing 5 geographical regions of the USA (courtesy National Geographi
 
 The following is a list of regions and corresponding state codes of states that belong to each region:
 
-•	'West':  WA, MT, OR, ID, WY, CA, NV, UT, CO, AK, HI,
-•	'Southwest':  AZ, NM, TX, OK,
-•	'Midwest':  ND, SD, NE, KS, MN, IA, MO, WI, IL, MI, IN, OH,
-•	'Southeast':  KY, WV, VA, AR, TN, NC, SC, GA, AL, MS, LA, FL,
-•	'Northeast':  PA, NY, VT, ME, NH, MA, RI, CT, NJ, DE, MD, DC
+*	'West':  WA, MT, OR, ID, WY, CA, NV, UT, CO, AK, HI,
+*	'Southwest':  AZ, NM, TX, OK,
+*	'Midwest':  ND, SD, NE, KS, MN, IA, MO, WI, IL, MI, IN, OH,
+*	'Southeast':  KY, WV, VA, AR, TN, NC, SC, GA, AL, MS, LA, FL,
+*	'Northeast':  PA, NY, VT, ME, NH, MA, RI, CT, NJ, DE, MD, DC
 
 The chart shows that the earning capacity in ‘West’ exceeds that of the rest of the regions. Each region, however, may include states with very high paying jobs along with states with low paying jobs.
 
@@ -108,21 +108,21 @@ The average salary for the companies with number of employees ‘not listed’, 
 
 
 From all the above data visualization charts it can be inferred that the highest paying jobs as well as the largest number of jobs are in the sector:  Information Technology.  All ‘IT’ jobs require the knowledge of one or more of the following Programming Languages or Application Packages listed in the Glassdoor dataset:
-•	Python,
-•	R,
-•	Spark,
-•	Amazon Web Services (AWS)
-•	Excel
+*	Python,
+*	R,
+*	Spark,
+*	Amazon Web Services (AWS)
+*	Excel
 Therefore, in the following plots, data is explored to analyze the earning potential with programming skills.
 
 Histogram of job-count versus salary for each programming skill.  
 All plots except one for ‘R’, resemble a ‘normal’ curve skewed right.  This implies that the average value of salary moves to the right and salary range is extended to the right.
 The jobs requiring such skills offer much more than the median value of salary listed here:
-•	Python: $107k
-•	R: $70k
-•	Spark: $108k
-•	AWS: $107k
-•	Excel: $92k
+*	Python: $107k
+*	R: $70k
+*	Spark: $108k
+*	AWS: $107k
+*	Excel: $92k
 
 These median values are also the mode values with the largest number of jobs.
 
@@ -149,7 +149,7 @@ Using Python as an example, bar plot with 'hue' illustrates the salaries in sect
 
 ## DATA PRESENTATION
 
-Part I:  Flask App
+### Part I:  Flask App
 
 From the database glassdoor_jobs in SQLite, table glassdoor_clean is extracted to create a flask app.
 An API with various query options is created.  Each option when chosen displays a chart pertaining to job data.
@@ -158,7 +158,7 @@ Using JavaScript, a program module is created with a ‘click’ button.  The op
 
 
 
-Part II:  Map App
+### Part II:  Map App
 
 Cleaned Glassdoor data was reformatted for information regarding jobs for each state.
 
@@ -174,7 +174,7 @@ Clicking on a state, Oregon, in the following example, enlarges the state to fit
 
  
 
-Part III:  Interactive Dashboard
+### Part III:  Interactive Dashboard
 
 For a complete overview of state-by-state job opportunities, an interactive dashboard is created.  
 
@@ -190,17 +190,17 @@ In the dashboard, a dropdown option allows a user to choose a state code, such a
 
 Glassdoor data of job postings for 2017-2018 is analyzed to assess the following:
 
-•	Identifying the dominating factors affecting salaries,
-•	Determining the locations (state, region) that invite higher paying jobs,
-•	Number of jobs available in a category, such as job types (titles) and sectors.
+*	Identifying the dominating factors affecting salaries,
+*	Determining the locations (state, region) that invite higher paying jobs,
+*	Number of jobs available in a category, such as job types (titles) and sectors.
 
 From the visual exploration and analysis of data, it can be deduced that:
 
-•	Tech jobs related to ‘data processing’ are among the highest paying jobs,
-•	Such jobs are mostly concentrated in companies less than 50 years old,
-•	Company size (number of employees) is not a factor in high paying jobs,
-•	Jobs that require programming skills pay the highest, and
-•	West and Northeast regions have the greatest abundance of tech jobs related to data processing.
+*	Tech jobs related to ‘data processing’ are among the highest paying jobs,
+*	Such jobs are mostly concentrated in companies less than 50 years old,
+*	Company size (number of employees) is not a factor in high paying jobs,
+*	Jobs that require programming skills pay the highest, and
+*	West and Northeast regions have the greatest abundance of tech jobs related to data processing.
 
 The Glassdoor dataset considered here could be significantly useful for candidates seeking careers in fields related to ‘data science’ and ‘data processing’.
 
